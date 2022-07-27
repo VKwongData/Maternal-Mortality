@@ -36,8 +36,8 @@ visualization for each of the metrics. The full interactive dashboard can be fou
 
 <b>Bubble Chart of the Maternal Mortality Ratio by Country and Continent:</b>
 
-![MaternalMortalityRatioBubbleChart](https://user-images.githubusercontent.com/94913441/181334010-cd533722-135f-4f6c-9634-2dc7d44020ec.png)
 
+![Screenshot 2022-07-27 191754](https://user-images.githubusercontent.com/94913441/181388687-4d8f1e48-a7bb-4748-bae2-759a9e9a483a.png)
 
 <b>Map of the Lifetime Risk of Maternal Death by Country:</b>
 
