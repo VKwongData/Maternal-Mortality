@@ -1,4 +1,4 @@
-# Exploration of Data on Maternal Deaths Using SQL and Tableau
+# Exploration of Data on Maternal Mortality Using SQL and Tableau
 
 This is a repository for a personal project of mine that explores maternal mortality data from <a href="https://ourworldindata.org/maternal-mortality">OurWorldInData.org</a>.
 
