@@ -2,8 +2,7 @@
 
 This is a repository for a personal project of mine that explores maternal mortality data from <a href="https://ourworldindata.org/maternal-mortality">OurWorldInData.org</a>.
 
-The datasets and SQL code used in the project are included in this repository. This project was inspired by AlexTheAnalyst's 
-<a href="https://youtu.be/qfyynHBFOsM">YouTube video on using SQL to explore data on COVID deaths</a>. 
+The datasets and SQL code used in the project are included in this repository.
 
 ## Introduction
 
